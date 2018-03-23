@@ -1,7 +1,7 @@
 ---
 layout: page
 title: À propos de Jekyll
-permalink: /À propos de/index.html
+permalink: /About/index.html
 ---
 
 Voici le premier site Jekyll que je réalise. Pour toutes informations vous pouvez vous rendre sur la documentation en ligne : [jekyllrb.com](https://jekyllrb.com/)
