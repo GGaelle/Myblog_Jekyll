@@ -1,0 +1,18 @@
+---
+layout: page
+title: À propos de Jekyll
+permalink: /À propos de/
+---
+
+Voici le premier site Jekyll que je réalise. Pour toutes informations vous pouvez vous rendre sur la documentation en ligne : [jekyllrb.com](https://jekyllrb.com/)
+
+Vous pouvez trouver les codes sources pour Minima sur GitHub :
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
+
+Vous pouvez également trouver les codes sources pour Jekyll sur GitHub :
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll
