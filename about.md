@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /About/
+permalink: "/About/"
+layout: page
 ---
 
 Voici le premier site Jekyll que je réalise. Pour toutes informations vous pouvez vous rendre sur la documentation en ligne : [jekyllrb.com](https://jekyllrb.com/)
