@@ -1,6 +1,6 @@
 ---
 layout: page
-title: À propos de Jekyll
+title: About
 permalink: /About/index.html
 ---
 
